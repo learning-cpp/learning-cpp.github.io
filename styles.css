@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Futura PT";
+    src: url("FuturaPTLight.otf");
+}
+
+body {
+    background-color: #666666;
+}
+
+.white {
+    color: white;
+}
+
+p {
+    font-family: "Futura PT", serif;
+    font-size: 20px;
+}
