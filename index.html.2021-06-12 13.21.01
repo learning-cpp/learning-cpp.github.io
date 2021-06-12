@@ -11,7 +11,7 @@
         <title>Learning C++ and all it's inner workings</title>
     </head>
     <body>
-        <div id="stick"><h2>C++</h2><a id="top" href="http://cpp.sh/" target="_blank">Online C++ sandbox</a></div> <!-- to be fixed later -->
+        <div id="stick"><h2>C++</h2><a id="top" href="https://cpp.sh/" target="_blank">Online C++ sandbox</a></div> <!-- to be fixed later -->
         <br>
         <br>
         <br>
@@ -24,7 +24,6 @@
         <br>
         <br>
         <br>
-		<div id="large">
         <div class="content">
             <h1>An introduction</h1>
             <br>
@@ -125,27 +124,5 @@ if (x == 0) {
 </code>
 </pre>
         </div>
-        <br>
-        <br>
-        <div class="content">
-        <h1>Operators</h1>
-        <p>Operators are an integeral part of C++, as they can perform many operations such as math that are important. One of the useful operators is simply a plus sign. The plus sign operator does the obvious, it performs addition. Another operator is the opposite which is the minus sign, which, well does the opposite of the plus sign. For multiplication it is the asterik, or as some people call it, the star. The division operator is a slash. Specifically the forward slash. To increment or decrement something, rather than using the addition or subtraction operator, to save development time you can use the operators built for that purpose know as the increment and decrement operator. The increment operator is simply two plus signs, and for the decrement operator is is two minus signs. Some examples of these operators in use:</p>
-        <br>
-        <p>The addition operator:</p>
-        <pre>
-<code>
-int x = 100 + 50;
-</code>
-</pre>
-<br>
-        <p>The increment operator:</p>
-        <pre>
-<code>
-int x = 0;
-x++
-</code>
-</pre>
-        </div>
-		</div>
     </body>
 </html>

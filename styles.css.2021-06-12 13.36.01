@@ -87,8 +87,5 @@ a {
 }
 
 #large {
-    background-color: #d3d4cb;
-    outline: solid;
-    outline-color: black;
-    padding: 80px;
+    background-color: linen;
 }

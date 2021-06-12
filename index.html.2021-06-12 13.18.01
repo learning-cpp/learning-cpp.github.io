@@ -11,7 +11,7 @@
         <title>Learning C++ and all it's inner workings</title>
     </head>
     <body>
-        <div id="stick"><h2>C++</h2><a id="top" href="http://cpp.sh/" target="_blank">Online C++ sandbox</a></div> <!-- to be fixed later -->
+        <div id="stick"><h2>C++</h2><a id="top" href="https://cpp.sh/" target="_blank">Online C++ sandbox</a></div> <!-- to be fixed later -->
         <br>
         <br>
         <br>
@@ -24,7 +24,6 @@
         <br>
         <br>
         <br>
-		<div id="large">
         <div class="content">
             <h1>An introduction</h1>
             <br>
@@ -116,7 +115,7 @@ int main() {
         <div class="content">
         <h1>If, else, and loops.</h1>
         <br>
-        <p>Conditional statements and loops are like the bread and butter of C++. They are vital for a functional program in C++. A conditional statement can execute block of code under any condition. For example, what if you wanted a    program to only play a sound when a timer has reached zero? You could use conditional statements. You could tell the computer, if the variable called timer has reached 0 or below that, play a sound. Take a look at the following code. That is how a conditional statement is formatted. The if tells the computer it is a conditional statement. Next, what's in the brackets is the condition. That is what the computer is waiting for so it can execute the code. Next, the curly braces denote where to code that will be executed is. Conditional statments are pretty simple. Now to look at some loops. One of the simpler loops is called the while loop. It is just like an if statement, but with a loop built-in. It is formatted the same way as a conditional statement, however, instead of if, you put while, and the code executed by a while loop will continue executing repeatedly until the condition in the parentheses is no longer true.</p>
+        <p>Conditional statements and loops are like the bread and butter of C++. They are vital for a functional program in C++. A conditional statement can execute block of code under any condition. For example, what if you wanted a    program to only play a sound when a timer has reached zero? You could use conditional statements. You could tell the computer, if the variable called timer has reached 0 or below that, play a sound. Take a look at the following code. That is how a conditional statement is formatted. The if tells the computer it is a conditional statement. Next, what's in the brackets is the condition. That is what the computer is waiting for so it can execute the code. Next, the curly braces denote where to code that will be executed is. Conditional statments are pretty simple. Now to look at some loops.</p>
 <pre>
 <code>
 if (x == 0) {
@@ -125,27 +124,5 @@ if (x == 0) {
 </code>
 </pre>
         </div>
-        <br>
-        <br>
-        <div class="content">
-        <h1>Operators</h1>
-        <p>Operators are an integeral part of C++, as they can perform many operations such as math that are important. One of the useful operators is simply a plus sign. The plus sign operator does the obvious, it performs addition. Another operator is the opposite which is the minus sign, which, well does the opposite of the plus sign. For multiplication it is the asterik, or as some people call it, the star. The division operator is a slash. Specifically the forward slash. To increment or decrement something, rather than using the addition or subtraction operator, to save development time you can use the operators built for that purpose know as the increment and decrement operator. The increment operator is simply two plus signs, and for the decrement operator is is two minus signs. Some examples of these operators in use:</p>
-        <br>
-        <p>The addition operator:</p>
-        <pre>
-<code>
-int x = 100 + 50;
-</code>
-</pre>
-<br>
-        <p>The increment operator:</p>
-        <pre>
-<code>
-int x = 0;
-x++
-</code>
-</pre>
-        </div>
-		</div>
     </body>
 </html>
